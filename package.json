@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwind": "npx tailwindcss -c tailwind.config.js -i ./resources/css/input.css -o ./dist/output.css --watch --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
