@@ -11,7 +11,7 @@ A simple tool to compile TailwindCSS into a standalone .css file. Useful for rap
    - Custom CSS (e.g. `@apply` rules): `resources/css/`
    - Custom JS for Tailwind functionality: `resources/js/`
 
-**Build Tailwind
+**Build Tailwind**
 in the terminal #npm run build:tailwind
 
 ## 📦 Output
